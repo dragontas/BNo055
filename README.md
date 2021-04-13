@@ -2,6 +2,9 @@
 
 g++ Example_Data_Raw.cpp RPi_BNO055.cpp -lpigpio
 
+# Reading GPS-sensor
+sudo cat /dev/ttyS0 9600
+
 # RT-Linux RPi
 sudo apt-get install flex
 sudo apt-get install bison
