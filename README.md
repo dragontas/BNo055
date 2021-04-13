@@ -1,5 +1,6 @@
 # Howto
 
+make sure to activate i2c a priori in the Rpi config
 g++ Example_Data_Raw.cpp RPi_BNO055.cpp -lpigpio
 
 # Reading GPS-sensor
