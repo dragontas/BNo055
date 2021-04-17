@@ -1,8 +1,8 @@
 # Hardare:
-#1 Raspberry Pi zero with wifi; 12€ +5Eur DHL
-#2 Adafruit bno055, max 30€, google it
-#3 ublox neo7 receiver or compatible (with uart connector), max 10€, ebay or amazon
-#4 AZDelivery 3 x 0,96 Zoll OLED Display, 10€ @amazon
+-1 Raspberry Pi zero with wifi; 12€ +5Eur DHL
+-2 Adafruit bno055, max 30€, google it
+-3 ublox neo7 receiver or compatible (with uart connector), max 10€, ebay or amazon
+-4 AZDelivery 3 x 0,96 Zoll OLED Display, 10€ @amazon
 
 # Howto
 
