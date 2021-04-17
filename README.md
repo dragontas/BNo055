@@ -7,6 +7,8 @@
 
 -4 AZDelivery 3 x 0,96 Zoll OLED Display, 10€ @amazon
 
+-5 Development environment: I prefer to use ubuntu, ssh+sshfs, cross-compile, but feel free. I sugest we setup some oneBox solution soon.
+
 # Howto
 
 make sure to activate i2c a priori in the Rpi config
